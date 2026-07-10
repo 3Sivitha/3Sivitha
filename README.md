@@ -1,277 +1,127 @@
-```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Sivitha%20Gunasekaran&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20@%20EPAM%20|%20Java%20Backend%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Sivitha%20Gunasekaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20@%20EPAM%20|%20Java%20Backend%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sivitha+Gunasekaran;Software+Engineering+Intern+@+EPAM;Java+Backend+Developer;Spring+Boot+Developer;AI+%7C+Machine+Learning+Enthusiast;React+Developer;450%2B+LeetCode+Problems+Solved;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Sivitha+%F0%9F%91%8B;Software+Engineering+Intern+%40+EPAM;Java+%26+Spring+Boot+Backend+Developer;AI+%2F+ML+Enthusiast;450%2B+LeetCode+Problems+Solved;Always+Learning+Something+New+%F0%9F%9A%80"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=3Sivitha&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/3Sivitha?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/3Sivitha?style=for-the-badge"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=3Sivitha&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/3Sivitha?style=flat-square&label=Followers&color=blue"/>
+<img src="https://img.shields.io/github/stars/3Sivitha?style=flat-square&label=Stars&color=yellow"/>
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 Final Year **Computer Science Engineering** Student
+- 🎓 Final-year **Computer Science Engineering** student — CGPA **9.35**
+- 💼 **Software Engineering Intern @ EPAM**
+- ☕ Passionate **Java backend developer**, building on **Spring Boot** & **Microservices**
+- 🤖 Exploring **AI/ML** and generative AI-powered solutions
+- 🧩 Strong foundation in **DSA** — **450+ LeetCode problems** solved
+- 🌱 Currently deepening my skills in **System Design**, **Docker**, **Cloud**, and **React**
 
-💼 **Software Engineering Intern @ EPAM**
+<br/>
 
-☕ Passionate **Java Backend Developer**
+## 🛠️ Tech Stack
 
-🤖 Enthusiastic about **Artificial Intelligence & Machine Learning**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🚀 Interested in building scalable backend applications using **Spring Boot**, **Microservices**, and **AI-powered solutions**
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,mysql"/></p>
 
-🧩 Strong foundation in **Data Structures & Algorithms**
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/></p>
 
-💻 Solved **450+ LeetCode Problems**
+</td>
+<td valign="top" width="50%">
 
-🌱 Currently Learning
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/></p>
 
-- Spring Boot Microservices
-- System Design
-- Docker
-- Cloud Technologies
-- React
-- Generative AI
+**Tools & Platforms**
+<p><img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker"/></p>
 
-🎯 Interests
+</td>
+</tr>
+</table>
 
-- ☕ Java Backend Development
-- 🚀 Spring Boot & Microservices
-- 🤖 Artificial Intelligence (AI)
-- 🧠 Machine Learning (ML)
-- 🌐 Full Stack Development
-- ☁ Cloud Native Applications
-- 💻 Software Engineering
-- 📊 Scalable System Design
+| Category | Stack |
+|---|---|
+| **Backend** | Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven |
+| **Frontend** | React · HTML · CSS · Tailwind |
+| **Databases** | MySQL · H2 |
 
----
+<br/>
 
-# 🛠 Tech Stack
+## 🚀 Featured Projects
 
-## 💻 Programming Languages
+### 🌿 [AyurSutra](https://github.com/3Sivitha)
+AI-powered Panchakarma patient & therapy management system.
+`Java` `Spring Boot` `React` `AI/ML`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,mysql"/>
-</p>
+### 🤖 [Attendance Management System (ML)](https://github.com/3Sivitha)
+Face-recognition based attendance system.
+`Python` `OpenCV` `Machine Learning`
 
----
+### 📚 [Digital Nurture 4.0 Practice](https://github.com/3Sivitha)
+Java & Spring Boot practice repo covering REST APIs, CRUD, JPA, DTO mapping, exception handling & validation.
 
-## ⚙️ Backend Development
+### 📊 [Smart Class Management](https://github.com/3Sivitha)
+Academic management system for student performance & attendance, built in Python.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
+### 💻 [DSA Graph Problems](https://github.com/3Sivitha)
+Java implementations of graph algorithms and interview-focused DSA problems.
 
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Maven
+<br/>
 
----
-
-## 🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
-
----
-
-## 🗄️ Databases
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-- MySQL
-- H2 Database
-
----
-
-## ☁️ Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🌿 AyurSutra
-
-**AI Powered Panchakarma Patient & Therapy Management System**
-
-**Tech Stack**
-
-- Java
-- Spring Boot
-- React
-- Artificial Intelligence
-- Machine Learning
-
----
-
-## 🤖 Attendance Management System using Machine Learning
-
-Face Recognition Based Attendance System
-
-**Tech Stack**
-
-- Python
-- OpenCV
-- Machine Learning
-
----
-
-## 📚 Digital Nurture 4.0 Practice
-
-Comprehensive Java & Spring Boot Practice Repository
-
-**Includes**
-
-- REST APIs
-- CRUD Operations
-- Spring Data JPA
-- Hibernate
-- DTO Mapping
-- Exception Handling
-- Validation
-
----
-
-## 📊 Smart Class Management
-
-Academic Management System built using Python for student performance and attendance management.
-
----
-
-## 💻 DSA Graph Problems
-
-Java implementations of Graph Algorithms and interview-focused Data Structure problems.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=3Sivitha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Sivitha&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=3Sivitha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Sivitha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=3Sivitha&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=3Sivitha&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=3Sivitha&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
 </p>
 
----
+<br/>
 
-# 🏅 Achievements
-
-🏆 Software Engineering Intern @ EPAM
-
-🏆 Solved **450+ LeetCode Problems**
-
-🏆 CGPA **9.35**
-
-🏆 Built AI & Machine Learning Applications
-
-🏆 Spring Boot REST API Development
-
-🏆 Strong Java & Data Structures Foundation
-
----
-
-# 📚 Coding Profiles
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/3Sivitha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/sivitha">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
 <a href="https://www.linkedin.com/in/sivitha-g-343658279/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 🌱 Currently Working On
-
-- 🚀 Spring Boot Projects
-- ☁️ Microservices
-- 🤖 AI & Machine Learning
-- ⚛️ React Applications
-- 🧠 System Design
-- 🐳 Docker
-- ☁️ Cloud Technologies
-- 💻 Java Interview Preparation
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sivitha-g-343658279/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
 <a href="mailto:sivitha91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 </p>
 
----
-
-# 💡 Fun Fact
-
-> **"I enjoy turning complex ideas into clean, scalable, and impactful software solutions while continuously learning new technologies."**
-
----
+<br/>
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+> *"Code • Learn • Build • Innovate • Repeat"*
 
-### 💙 *"Code • Learn • Build • Innovate • Repeat"*
+⭐ **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer"/>
 
 </div>
-```
